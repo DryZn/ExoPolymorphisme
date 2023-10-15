@@ -2,6 +2,9 @@
 ## Sujet
 Un `Garagiste` doit controler une `Moto`, une `Voiture` et un `Camion`.  
 Ensuite, il va analyser le coffre du `Camion` et celui d'une `Carvane`.
+### Contribuer
+**Ne rien pousser sur la branche principale directement.**  
+Créer une autre branche et faire une merge request en mettant en reviewer quand l'exercice est résolu.
 ### Etape 1
 La fonction **main** doit appeler `Garagiste.controleVehicule` (camelCase) qui doit afficher les informations suivantes pour une Moto et une Voiture:  
 ```
